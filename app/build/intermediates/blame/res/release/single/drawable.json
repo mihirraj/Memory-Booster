@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_play_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\loading.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rate.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\rate.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\solids.jpg",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\solids.jpg"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\top_grey_frame.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\top_grey_frame.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_cast_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_rate.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\btn_rate.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\batterysaver.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\batterysaver.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_checkbox.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\custom_checkbox.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_cast_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_pause_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_mem_boost_selecter.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\button_mem_boost_selecter.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_rate_clicked.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\btn_rate_clicked.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\close.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\close.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_junk_clean_selecter.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\button_junk_clean_selecter.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mycustomprogressbar.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\mycustomprogressbar.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\appmanager.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\appmanager.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_boost.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\button_boost.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\tab.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\push_icon.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\push_icon.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\b.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_apps_man_selecter.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\button_apps_man_selecter.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\light.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\semi_grey.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\semi_grey.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_close_clicked.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\btn_close_clicked.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_bat_boost_selecter.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\button_bat_boost_selecter.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\stock_lock.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\stock_lock.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_pause_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_close.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\btn_close.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_sclose.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\btn_sclose.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_menu.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\membooster.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\membooster.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_settings_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg.jpg",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\play.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mid_frame_bg.jpg",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\mid_frame_bg.jpg"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_close_splashbutton.xml",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\custom_close_splashbutton.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_sclose_hover.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\btn_sclose_hover.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\semi_grey2.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\semi_grey2.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_settings_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ad_gift.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\ad_gift.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\junkclean.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable\\junkclean.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_play_light.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    }
+]

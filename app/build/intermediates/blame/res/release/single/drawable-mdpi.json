@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\blue_button_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\blue_button_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_app_manager.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_app_manager.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_on_1_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\progress_1.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\progress_1.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_on_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_medium_off_client.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-mdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_pause.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\red_small_button_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\red_small_button_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\header_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\header_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\white_tab_bg_underline.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\white_tab_bg_underline.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_small_off_client.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-mdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\progress_2.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\progress_2.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\blue_button_pressed.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\blue_button_pressed.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\places_ic_clear.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\red_tab_header_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\red_tab_header_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\progress_4.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\progress_4.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\places_ic_search.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_master_boost_pressed.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_master_boost_pressed.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_play_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\blue_small_button_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\blue_small_button_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_setting_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_route_on_mono_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\white_tab_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\white_tab_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_on_0_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_play.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_checked.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_checked.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_setting_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_junk_cleaner_pressed.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_junk_cleaner_pressed.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_unchecked.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_unchecked.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ram_round.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\ram_round.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_junk_cleaner.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_junk_cleaner.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_memory_booster_pressed.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_memory_booster_pressed.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\cast_ic_notification_0.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-mdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\red_button_pressed.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\red_button_pressed.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_tall_off_client.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-mdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_play_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_on_2_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_disabled_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_standard_off_client.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-mdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\blue_tab_header_bg.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\blue_tab_header_bg.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\cast_ic_notification_1.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-mdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_launcher.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_app_manager_pressed.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_app_manager_pressed.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_cast_off_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_master_boost_normal.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_master_boost_normal.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_memory_booster.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\button_memory_booster.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\android_blanc.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\android_blanc.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\progress_3.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\progress_3.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\android_gris.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\android_gris.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\cast_ic_notification_2.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-mdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\cast_ic_notification_on.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-mdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_pause_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\tab_selector.png",
+        "source": "G:\\SA\\BCP\\app\\src\\main\\res\\drawable-mdpi\\tab_selector.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_media_route_off_mono_dark.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "G:\\SA\\BCP\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_pause_light.png",
+        "source": "G:\\SA\\BCP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_pause_light.png"
+    }
+]

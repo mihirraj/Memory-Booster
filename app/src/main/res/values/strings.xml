@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memory Booster &amp; Battery Saver</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_rate_us">Rate Us</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="share_text">\"FREE On Google Play: Memory Booster &amp; Battery Saver - Download Now on the Android Market \" https://play.google.com/store/apps/details?id=com.junkcleaner.memorycleaner</string>
+    <string name="text_uninstall">Uninstall</string>
+    <string name="text_clean">Clean</string>
+    <string name="text_backup">Backup</string>
+    <string name="text_junk_clean">Junk\nCleaner</string>
+    <string name="text_mem_boost">Memory\nBooster</string>
+    <string name="text_app_man">App\nManager</string>
+    <string name="text_app_batt_save">Battery\nSaver</string>
+    <string name="text_boost">BOOST</string>
+    <string name="text_clear">CLEAR</string>
+    <string name="text_running_apps">Running apps</string>
+    <string name="text_done">Done</string>
+    <string name="text_ram_cleared">RAM Released</string>
+    <string name="text_ok">OK</string>
+    <string name="text_no_thanks">No, thanks</string>
+    <string name="text_later">Later</string>
+    <string name="text_open">Open Directory</string>
+    <string name="text_clear_all_junk">Clear All Junk</string>
+    <string name="text_msg">Successfully Backup selected apk on sd card in apk_backup directory!</string>
+    <string name="text_rate_msg">If you enjoy using this App please take a moment to rate it 5 Stars and further help development. Thank you for your support.</string>
+    <string name="text_boost_small">Boost</string>
+    <string name="text_share">Share</string>
+    <string name="text_rate">Rate</string>
+    <string name="text_apps_manager">Apps\nManager</string>
+    <string name="text_close">Close</string>
+    <string name="text_battery_server">Battery Saver</string>
+    <string name="text_auto_turn_off_blootooth">Auto Turn Off Bluetooth</string>
+    <string name="text_auto_turn_off_blootooth_desc">Auto turn off Bluetooth when battery is low</string>
+    <string name="text_dim_brightness_desc">Decrease brightness when battery is low</string>
+    <string name="text_dim_brightness">Auto Decrease Brightness</string>
+    <string name="text_auto_turn_wifi_desc">Auto turn off wifi when battery is low</string>
+    <string name="text_auto_turn_off_wifi">Auto Turn Off Wifi</string>
+    <string name="text_auto_kill_apps">Auto Kill All Apps</string>
+    <string name="text_auto_kill_apps_desc">Auto kill all apps when battery is low</string>
+    <string name="text_auto_brightness_control">Auto Brightness Control</string>
+    <string name="text_auto_brightness_control_desc">birghtness of device will automatically control based on light</string>
+    <string name="text_auto_turn_off_sync">Auto Turn Off Sync</string>
+    <string name="text_auto_turn_off_sync_desc">Auto turn off sync when battery is low</string>
+    <string name="banner_ad_id">ca-app-pub-2521709554939168/8725428538</string>
+    <string name="Interstitial_ads_id">ca-app-pub-2521709554939168/2678894938</string>
+
+</resources>

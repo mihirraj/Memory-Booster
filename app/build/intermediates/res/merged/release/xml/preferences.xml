@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <com.junkcleaner.memorycleaner.component.MyPreferenceCategory
+        android:key="batteryServerCategory"
+        android:title="@string/text_battery_server" >
+        <com.junkcleaner.memorycleaner.component.MyCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOffBlootooth"
+            android:persistent="true"
+            android:summary="@string/text_auto_turn_off_blootooth_desc"
+            android:title="@string/text_auto_turn_off_blootooth" />
+        <com.junkcleaner.memorycleaner.component.MyCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefDecBrightness"
+            android:persistent="true"
+            android:summary="@string/text_dim_brightness_desc"
+            android:title="@string/text_dim_brightness" />
+        <com.junkcleaner.memorycleaner.component.MyCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefTurnOffWifi"
+            android:persistent="true"
+            android:summary="@string/text_auto_turn_wifi_desc"
+            android:title="@string/text_auto_turn_off_wifi" />
+        <com.junkcleaner.memorycleaner.component.MyCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefAutoKillApps"
+            android:persistent="true"
+            android:summary="@string/text_auto_kill_apps_desc"
+            android:title="@string/text_auto_kill_apps" />
+        <com.junkcleaner.memorycleaner.component.MyCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefAutoBrightness"
+            android:persistent="true"
+            android:summary="@string/text_auto_brightness_control_desc"
+            android:title="@string/text_auto_brightness_control" />
+        <com.junkcleaner.memorycleaner.component.MyCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefAutoTurnOffSync"
+            android:persistent="true"
+            android:summary="@string/text_auto_turn_off_sync_desc"
+            android:title="@string/text_auto_turn_off_sync" />
+    </com.junkcleaner.memorycleaner.component.MyPreferenceCategory>
+
+</PreferenceScreen>
